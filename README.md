@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Felipe! 👋</h1>
-<h3 align="center">Analista de Datos Senior | IA | Consultoría | Mentoría de Idiomas Corporativa</h3>
+<h3 align="center">Analista de Datos Senior | IA | Consultoría | Mentoría de Idiomas a Nivel Corporativo</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 Analista senior con más de **5 años de experiencia** en datos, inteligencia artificial y consultoría a nivel corporativo. Además de mi rol en análisis de datos, me dedico a la **mentoría de idiomas**, combinando habilidades técnicas y de comunicación para ayudar a equipos y organizaciones a tomar mejores decisiones basadas en información.
 
-Me apasiona transformar datos crudos en insights accionables, y disfruto explorando cómo la IA puede potenciar el análisis tradicional.
+Transformo tus datos crudos en insights accionables, y disfruto explorando cómo la IA puede potenciar el análisis tradicional.
 
 ---
 
