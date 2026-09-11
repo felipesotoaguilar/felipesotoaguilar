@@ -12,9 +12,9 @@ Python y SQL para análisis de datos 🛠️
 ---
 
 ### Certificados
-<img width="800" height="561" alt="image" src="https://github.com/user-attachments/assets/8b780189-7952-49fc-b226-de99e5a3b99c" />
-<img width="1280" height="952" alt="image" src="https://github.com/user-attachments/assets/1dee973b-1922-4297-bad6-715155caf8e4" />
-<img width="1288" height="958" alt="image" src="https://github.com/user-attachments/assets/db23d030-1316-4170-83a2-7ce21fd1248d" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/8b780189-7952-49fc-b226-de99e5a3b99c" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1dee973b-1922-4297-bad6-715155caf8e4" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/db23d030-1316-4170-83a2-7ce21fd1248d" />
 
 
 
