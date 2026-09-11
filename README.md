@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hola, soy Felipe y trabajo en el mundo de los datos 👋
+
+### Experiencia
+2021-2026: Analista senior de datos en Evalueserve
+
+---
+
+### Herramientas
+Excel Avanzado
+
+Power BI Avanzado
+
+---
+
+### Certificados
+
+
+
+
+
+
+
 
 <!--
 **felipesotoaguilar/felipesotoaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
